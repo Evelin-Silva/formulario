@@ -6,4 +6,4 @@
 
 ## Aqui está uma prévia:
 
-<img src="img/previaform">
+![previa](/img/previaform.png)
