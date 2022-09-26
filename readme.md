@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="(link)" style="color: #8904B1">🔗 Link para o formulário</a>
+<a href="https://index-evelin.github.io/formulario/" style="color: #8904B1">🔗 Link para o formulário</a>
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="./preview/previaform.png" alt="Prévia do projeto" />
+<img src="./preview/preview.png" alt="Prévia do projeto" />
 
 <br>
 
